@@ -18,3 +18,5 @@ Topics covered:
 
 What is bitcoin?
 
+8. Trading Algorithm
+https://levelup.gitconnected.com/how-i-tripled-my-return-on-bitcoin-using-mathematics-algorithms-and-python-347edd9b5625
